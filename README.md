@@ -9,18 +9,23 @@ Code your own planet-saving solution to water usage, to bush regeneration, to su
 This year, our Youth Coding and Innovation Club host this event (affiliate with Code Club Global), and five students present seven projects.
 
 1. Kevin Han
+
         Drone planting Moonhack YCIC-KevinHan Scratch
         
         Moonhack2020-Sustainability At Home YCIC-KevinHan
+        
 2. Ray Tang
+
         Moonhack2020-Sustainability At Home YCIC-RayTang
         
         Moonhack2020-Python YCIC Ray Tang
         
 3. Annie Qiu
+
         Moonhack2020-Python-Game YCIC Annie Qiu
         
 4. Kevin Shi
+
         Moonhack2020-Python YCIC Kevin Shi
         
 
